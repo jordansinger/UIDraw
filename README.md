@@ -1,6 +1,6 @@
 # UIDraw
 
-Draw and build a website on your phone
+Draw and build a website on your phone. [Watch the demo](https://x.com/jsngr/status/1728848624048853442?s=20).
 
 ---
 
